@@ -1,7 +1,7 @@
 # Hi, I'm Manoj 👋
 
-### 🚀 Full Stack Developer
-
+### 🚀 
+- Project Management - Host, Mentor.
 - Experienced Full Stack Developer with expertise in both front-end and back-end technologies.
 - Skilled in Java, JavaScript, React and SQL.
 - Adept at designing, developing, and deploying scalable web applications.
